@@ -1,5 +1,35 @@
 [
   {
+    "company": "Arboreal Management &middot; Seattle, Washington, United States",
+    "title": "text-size-adjust: 100%;\"> Software Engineering Intern",
+    "location": "<table role=\"presentation\" valign=\"top\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspa",
+    "url": "https://www.linkedin.com/comm/jobs/view/4394227877?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B1cujd0CXTNq4p4G%2FpPLwdQ%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=1SL4k-bd79cco1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-i8qsyk~msgcj2ne~lz-null-null&eid=i8qsyk-msgcj2ne-lz&otpToken=MzE3MmI2ZDFmMGY2YzIwY2JiZWVmN2MwMzU5ODQyZWFiNDBjZjA1MTUxZWNmMmYyOThmM2NjNGEwM2ExZTViMzE4N2Q3MmRmMzU2YTYxZTdjMGY5MjAxNDgzNjgwYmQ2YjU5OTU1ZjI0YjhhNDRhNGM0ZWRjMmRiOThkYWZkNjA0YzY4YWU2NDU1YWVkNjVjLDIsMQ%3D%3D",
+    "category": "Software Engineering",
+    "source": "LinkedIn",
+    "date_added": "2026-08-05",
+    "status": "Open"
+  },
+  {
+    "company": "Palantir Technologies &middot; Seattle, Washington, United States",
+    "title": "> Software Engineer, Internship - Production Infrastructure",
+    "location": "<table role=\"presentation\" valign=\"top\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls",
+    "url": "https://www.linkedin.com/comm/jobs/view/4434137560?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B1cujd0CXTNq4p4G%2FpPLwdQ%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=1SL4k-bd79cco1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-i8qsyk~msgcj2ne~lz-null-null&eid=i8qsyk-msgcj2ne-lz&otpToken=MzE3MmI2ZDFmMGY2YzIwY2JiZWVmN2MwMzU5ODQyZWFiNDBjZjA1MTUxZWNmMmYyOThmM2NjNGEwM2ExZTViMzE4N2Q3MmRmMzU2YTYxZTdjMGY5MjAxNDgzNjgwYmQ2YjU5OTU1ZjI0YjhhNDRhNGM0ZWRjMmRiOThkYWZkNjA0YzY4YWU2NDU1YWVkNjVjLDIsMQ%3D%3D",
+    "category": "Software Engineering",
+    "source": "LinkedIn",
+    "date_added": "2026-08-05",
+    "status": "Open"
+  },
+  {
+    "company": "TikTok &middot; Seattle, Washington, United States",
+    "title": "; -ms-text-size-adjust: 100%;\"> Software Development Engineer in Test Intern (Global E-Commerce) - 2027 Summer",
+    "location": "<table role=\"presentation\" valign=\"top\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso",
+    "url": "https://www.linkedin.com/comm/jobs/view/4446288143?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B1cujd0CXTNq4p4G%2FpPLwdQ%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=1SL4k-bd79cco1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-i8qsyk~msgcj2ne~lz-null-null&eid=i8qsyk-msgcj2ne-lz&otpToken=MzE3MmI2ZDFmMGY2YzIwY2JiZWVmN2MwMzU5ODQyZWFiNDBjZjA1MTUxZWNmMmYyOThmM2NjNGEwM2ExZTViMzE4N2Q3MmRmMzU2YTYxZTdjMGY5MjAxNDgzNjgwYmQ2YjU5OTU1ZjI0YjhhNDRhNGM0ZWRjMmRiOThkYWZkNjA0YzY4YWU2NDU1YWVkNjVjLDIsMQ%3D%3D",
+    "category": "Software Engineering",
+    "source": "LinkedIn",
+    "date_added": "2026-08-05",
+    "status": "Open"
+  },
+  {
     "company": "Anduril",
     "role": "Software Engineer Intern",
     "location": "Seattle, WA",
@@ -37,32 +67,6 @@
     "application_url": "https://jobs.boeing.com/job/-/-/185/98720781984",
     "job_id": "JR2026520791",
     "notes": "10-12 weeks. Hourly and total figures are derived from the posted $44,000-$89,000 annualized range."
-  },
-  {
-    "company": "ByteDance",
-    "role": "AI Compute SWE Intern",
-    "location": "Seattle, WA",
-    "work": "In person",
-    "open_date": "August 4, 2026",
-    "close_date": "Rolling",
-    "hourly_rate": "$42.75/hour",
-    "total_compensation": "$20,520",
-    "application_url": "https://joinbytedance.com/search/7667378931599214853",
-    "job_id": "A73546",
-    "notes": "12 weeks. Master's degree required."
-  },
-  {
-    "company": "ByteDance",
-    "role": "AI Infrastructure Intern",
-    "location": "Seattle, WA",
-    "work": "In person",
-    "open_date": "August 4, 2026",
-    "close_date": "Rolling",
-    "hourly_rate": "$42.75/hour",
-    "total_compensation": "$20,520",
-    "application_url": "https://joinbytedance.com/search/7668802157205965109",
-    "job_id": "A233993",
-    "notes": "12 weeks."
   },
   {
     "company": "ByteDance",
@@ -170,32 +174,6 @@
   },
   {
     "company": "Microsoft",
-    "role": "CoreAI SWE Intern",
-    "location": "Redmond, WA",
-    "work": "Hybrid",
-    "open_date": "August 3, 2026",
-    "close_date": "Rolling",
-    "hourly_rate": "Est. $32.83-$64.67/hour",
-    "total_compensation": "Est. $17,070-$33,630",
-    "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-    "job_id": "200046156",
-    "notes": "Monthly range is $5,690-$11,210. Total assumes three months."
-  },
-  {
-    "company": "Microsoft",
-    "role": "Full-Stack SWE Intern",
-    "location": "Redmond, WA",
-    "work": "Hybrid",
-    "open_date": "August 3, 2026",
-    "close_date": "Rolling",
-    "hourly_rate": "Est. $32.83-$64.67/hour",
-    "total_compensation": "Est. $17,070-$33,630",
-    "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-    "job_id": "200042195",
-    "notes": "Monthly range is $5,690-$11,210. Total assumes three months."
-  },
-  {
-    "company": "Microsoft",
     "role": "Security & Identity SWE Intern",
     "location": "Redmond, WA",
     "work": "Hybrid",
@@ -244,19 +222,6 @@
     "total_compensation": "$14,880",
     "application_url": "https://careers.pentair.com/us/en/job/PEAPENUSR23700EXTERNALENUS/IT-Cybersecurity-Leadership-Development-Internship-Program-Summer-2027",
     "job_id": "R23700",
-    "notes": "12 weeks."
-  },
-  {
-    "company": "TikTok",
-    "role": "Data Architecture SWE Intern",
-    "location": "Seattle, WA",
-    "work": "In person",
-    "open_date": "August 4, 2026",
-    "close_date": "Rolling",
-    "hourly_rate": "$42.75/hour",
-    "total_compensation": "$20,520",
-    "application_url": "https://lifeattiktok.com/search/7668582086899763461?spread=5MWH5CQ",
-    "job_id": "A39573",
     "notes": "12 weeks."
   },
   {
