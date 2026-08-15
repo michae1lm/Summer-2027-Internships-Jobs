@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - one_time_update.py
+      - run_tracker_update.txt
 jobs:
   update:
     runs-on: ubuntu-latest
