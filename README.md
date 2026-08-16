@@ -1,14 +1,17 @@
 # Summer 2027 U.S. CS, Cybersecurity, IT & Early-Career Opportunities
 
-**Updated:** August 15, 2026  
-**Unique roles:** 46  
-**Internships:** 46  
-**Post-grad / early-career:** 0
+**Updated:** August 16, 2026  
+**Unique roles:** 49  
+**Internships:** 48  
+**Post-grad / early-career:** 1
 
 Click a job title to open its application page. Listings are automatically deduplicated and sorted newest to oldest. Detailed descriptions and qualifications are stored in opportunities.json / opportunities.csv when the employer publishes them.
 
 | Company | Opportunity | Type | Location | Work | Open date | Close date | Hourly rate | Estimated total compensation |
 |---|---|---|---|---|---|---|---|---|
+| Interactive Brokers | [Cybersecurity Internship 2027](https://www.linkedin.com/comm/jobs/view/4454308591?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3BjGzPvnk%2FQbK19IZua9S1Gg%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=2PtgWshnIwqso1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-i8qsyk~msunqn6s~dm-null-null&eid=i8qsyk-msunqn6s-dm&otpToken=NjA3MzA4YjZkNmQ5MTgzNjdjZDgzMGU3NGJmYzUxZDVkYjcxMDQ2ZWI1YTRhNzU4MjBmZDczMzg4ZmM2NDYxNWRjMGZiMjE1Yzk2MzlhZDNhZGZiMWIzOGNlNzg5NDUyN2VhYzBjNzJlODk4MWU5YmVjNTAzMWJkZWZmZWE0MmQzZjMzMzBiYTI0MWFjMTI3LDIsMQ%3D%3D) | Internship | Greenwich, Connecticut, United States | In person | August 15, 2026 | Rolling | Undisclosed | Undisclosed |
+| Pentair | [IT & Cybersecurity Leadership Development Internship Program - Summer 2027](https://www.linkedin.com/comm/jobs/view/4448312441?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3BjGzPvnk%2FQbK19IZua9S1Gg%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=2PtgWshnIwqso1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-i8qsyk~msunqn6s~dm-null-null&eid=i8qsyk-msunqn6s-dm&otpToken=NjA3MzA4YjZkNmQ5MTgzNjdjZDgzMGU3NGJmYzUxZDVkYjcxMDQ2ZWI1YTRhNzU4MjBmZDczMzg4ZmM2NDYxNWRjMGZiMjE1Yzk2MzlhZDNhZGZiMWIzOGNlNzg5NDUyN2VhYzBjNzJlODk4MWU5YmVjNTAzMWJkZWZmZWE0MmQzZjMzMzBiYTI0MWFjMTI3LDIsMQ%3D%3D) | Internship | Golden Valley, Minnesota, United States | In person | August 15, 2026 | Rolling | Undisclosed | Undisclosed |
+| SpaceX | [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://www.linkedin.com/comm/jobs/view/4454590319?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3BjGzPvnk%2FQbK19IZua9S1Gg%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=2PtgWshnIwqso1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-i8qsyk~msunqn6s~dm-null-null&eid=i8qsyk-msunqn6s-dm&otpToken=NjA3MzA4YjZkNmQ5MTgzNjdjZDgzMGU3NGJmYzUxZDVkYjcxMDQ2ZWI1YTRhNzU4MjBmZDczMzg4ZmM2NDYxNWRjMGZiMjE1Yzk2MzlhZDNhZGZiMWIzOGNlNzg5NDUyN2VhYzBjNzJlODk4MWU5YmVjNTAzMWJkZWZmZWE0MmQzZjMzMzBiYTI0MWFjMTI3LDIsMQ%3D%3D) | Post-grad | Redmond, Washington, United States | In person | August 15, 2026 | Rolling | Undisclosed | Undisclosed |
 | ByteDance | [Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://joinbytedance.com/search/) | Internship | San Jose, CA | In person | August 14, 2026 | Rolling | $45-$60/hour | Undisclosed |
 | IBM | [X-Force Red Hacker Intern 2027](https://www.ibm.com/careers/search) | Internship | Austin, TX | In person | August 14, 2026 | Rolling | Est. $24.92-$45.69/hour | $51,840-$95,040/year (annualized) |
 | Marathon Petroleum | [Intern/Co-op - Information Technology (Summer 2027)](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers?q=00023241) | Internship | Findlay, OH / San Antonio, TX | In person | August 14, 2026 | August 16, 2026 | $24.95-$31.19/hour | Undisclosed |
