@@ -1,6 +1,6 @@
 # Summer 2027 U.S. CS, Cybersecurity, IT & Early-Career Opportunities
 
-**Updated:** August 24, 2026  
+**Updated:** August 25, 2026  
 **Unique roles:** 53  
 **Internships:** 52  
 **Post-grad / early-career:** 1
