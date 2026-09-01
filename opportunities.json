@@ -1,5 +1,39 @@
 [
   {
+    "company": "Microsoft",
+    "role": "Security & Identity SWE Intern",
+    "location": "Redmond, WA",
+    "work": "Hybrid",
+    "open_date": "September 1, 2026",
+    "close_date": "February 28, 2027",
+    "hourly_rate": "Est. $32.83-$64.67/hour",
+    "total_compensation": "Est. $17,070-$33,630",
+    "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+    "job_id": "200042199",
+    "notes": "Monthly range is $5,690-$11,210. Total assumes three months. Employer page enriched automatically from published job data.",
+    "employment_type": "FULL TIME",
+    "description": "Applies engineering principles to solve complex problems through sound and creative engineering. Works with appropriate stakeholders to determine user requirements for a feature. Quickly learns new engineering methods and incorporates them into work processes. Seeks feedback and applies internal or industry best practices to improve technical solutions. Demonstrates skill in time management and completing software projects in a cooperative team environment. Reviews current developments and proactively seeks new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Currently pursuing Bachelor's Degree in Computer Science or related technical field with at least one semester/term remaining following the completion of the internship, OR currently pursuing Master's Degree in Computer Science or related technical field with at least one semester/term remaining following the completion of the internship. 1+ year(s) of programming experience. 6+ months of experience in delivering projects in teams. 1+ year(s) of experience in developing and applying data structures and algorithms. Coursework or experience in cybersecurity, networking, operating systems, or secure software development. Familiarity with identity and access management concepts, authentication, authorization, RBAC, or governance controls. Experience building software using C#, Java, Go, Rust, Python, or similar languages. Interest in threat modeling, secure coding practices, compliance, cloud security, and protecting large-scale services."
+  },
+  {
+    "company": "The Cadmus Group",
+    "role": "Junior Security Analyst The Cadmus Group · United States (Remote)",
+    "location": "United States (Remote)",
+    "work": "Remote",
+    "open_date": "August 31, 2026",
+    "close_date": "Rolling",
+    "hourly_rate": "Undisclosed",
+    "total_compensation": "Undisclosed",
+    "application_url": "https://www.linkedin.com/comm/jobs/view/4454326008/?trackingId=7goE1kuJEGEa2aQieDsciQ%3D%3D&refId=HXqlP8WyJamxF6VAHiygQQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BAGWYIUMHQi2qcl59N1trZg%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=2UJOzDX-H6MYo1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4454326008_sectionid_272001_fmid_i8qsyk~mthoq8tj~pv&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4454326008_sectionid_272001_fmid_i8qsyk~mthoq8tj~pv-null-i8qsyk~mthoq8tj~pv-null-null&eid=i8qsyk-mthoq8tj-pv&otpToken=MmU1NjZhOTUyN2U5NGM0Y2RjNjczODAyMjM3N2E4ODJlNTA4ODdlYTRlNTJkMTcxODlkNmJhZGIzOGI2NmVmYjRlYTliNjI3ZDRiZjRhZGE4NjAxNDk5YWI0NGFjZGQ3MDEyMGNjYTIxMzY2NjJiZjcyOGVmMWJlODAyOWJmMjI1NjE4Zjk3M2RhOGQ3ODgzLDIsMQ%3D%3D",
+    "linkedin_url": "https://www.linkedin.com/comm/jobs/view/4454326008/?trackingId=7goE1kuJEGEa2aQieDsciQ%3D%3D&refId=HXqlP8WyJamxF6VAHiygQQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BAGWYIUMHQi2qcl59N1trZg%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=2UJOzDX-H6MYo1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4454326008_sectionid_272001_fmid_i8qsyk~mthoq8tj~pv&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4454326008_sectionid_272001_fmid_i8qsyk~mthoq8tj~pv-null-i8qsyk~mthoq8tj~pv-null-null&eid=i8qsyk-mthoq8tj-pv&otpToken=MmU1NjZhOTUyN2U5NGM0Y2RjNjczODAyMjM3N2E4ODJlNTA4ODdlYTRlNTJkMTcxODlkNmJhZGIzOGI2NmVmYjRlYTliNjI3ZDRiZjRhZGE4NjAxNDk5YWI0NGFjZGQ3MDEyMGNjYTIxMzY2NjJiZjcyOGVmMWJlODAyOWJmMjI1NjE4Zjk3M2RhOGQ3ODgzLDIsMQ%3D%3D",
+    "job_id": "4454326008",
+    "employment_type": "Internship",
+    "description": "",
+    "qualifications": "",
+    "responsibilities": "",
+    "notes": "Post-grad / early-career opportunity imported automatically from a LinkedIn job email.",
+    "source": "LinkedIn"
+  },
+  {
     "company": "American Express",
     "role": "Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA",
     "location": "Atlanta, Georgia, United States",
@@ -723,19 +757,6 @@
     "application_url": "https://www.capitalonecareers.com/job/-/-/234/98706584752",
     "job_id": "R244319",
     "notes": "10 weeks. Derived from the posted $140,000 annualized McLean salary."
-  },
-  {
-    "company": "Microsoft",
-    "role": "Security & Identity SWE Intern",
-    "location": "Redmond, WA",
-    "work": "Hybrid",
-    "open_date": "August 3, 2026",
-    "close_date": "Rolling",
-    "hourly_rate": "Est. $32.83-$64.67/hour",
-    "total_compensation": "Est. $17,070-$33,630",
-    "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-    "job_id": "200042199",
-    "notes": "Monthly range is $5,690-$11,210. Total assumes three months."
   },
   {
     "company": "Netsmart",
