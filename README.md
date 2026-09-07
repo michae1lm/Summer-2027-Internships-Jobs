@@ -1,6 +1,6 @@
 # Summer 2027 U.S. CS, Cybersecurity, IT & Early-Career Opportunities
 
-**Updated:** September 6, 2026  
+**Updated:** September 7, 2026  
 **Unique roles:** 54  
 **Internships:** 52  
 **Post-grad / early-career:** 2
@@ -9,7 +9,7 @@ Click a job title to open its application page. Listings are automatically dedup
 
 | Company | Opportunity | Type | Location | Work | Open date | Close date | Hourly rate | Estimated total compensation |
 |---|---|---|---|---|---|---|---|---|
-| Pentair | [IT & Cybersecurity Intern](https://careers.pentair.com/us/en/job/PEAPENUSR23700EXTERNALENUS/IT-Cybersecurity-Leadership-Development-Internship-Program-Summer-2027) | Internship | Golden Valley, MN | In person | September 5, 2026 | March 1, 2027 | $31/hour | $14,880 |
+| Pentair | [IT & Cybersecurity Intern](https://careers.pentair.com/us/en/job/PEAPENUSR23700EXTERNALENUS/IT-Cybersecurity-Leadership-Development-Internship-Program-Summer-2027) | Internship | Golden Valley, MN | In person | September 6, 2026 | March 1, 2027 | $31/hour | $14,880 |
 | GE Vernova | [Digital Technology Intern](https://careers.gevernova.com/ge-vernova-digital-technology-internship-summer-2027/job/R5049176) | Internship | Atlanta, GA | In person | September 4, 2026 | Rolling | Est. $25-$50/hour | Est. $10,000-$24,000 |
 | Microsoft | [Security & Identity SWE Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Internship | Redmond, WA | Hybrid | September 1, 2026 | February 28, 2027 | Est. $32.83-$64.67/hour | Est. $17,070-$33,630 |
 | The Cadmus Group | [Junior Security Analyst The Cadmus Group · United States (Remote)](https://www.linkedin.com/comm/jobs/view/4454326008/?trackingId=7goE1kuJEGEa2aQieDsciQ%3D%3D&refId=HXqlP8WyJamxF6VAHiygQQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BAGWYIUMHQi2qcl59N1trZg%3D%3D&midToken=AQEjyWXu4WAGnA&midSig=2UJOzDX-H6MYo1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4454326008_sectionid_272001_fmid_i8qsyk~mthoq8tj~pv&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4454326008_sectionid_272001_fmid_i8qsyk~mthoq8tj~pv-null-i8qsyk~mthoq8tj~pv-null-null&eid=i8qsyk-mthoq8tj-pv&otpToken=MmU1NjZhOTUyN2U5NGM0Y2RjNjczODAyMjM3N2E4ODJlNTA4ODdlYTRlNTJkMTcxODlkNmJhZGIzOGI2NmVmYjRlYTliNjI3ZDRiZjRhZGE4NjAxNDk5YWI0NGFjZGQ3MDEyMGNjYTIxMzY2NjJiZjcyOGVmMWJlODAyOWJmMjI1NjE4Zjk3M2RhOGQ3ODgzLDIsMQ%3D%3D) | Post-grad | United States (Remote) | Remote | August 31, 2026 | Rolling | Undisclosed | Undisclosed |
